@@ -113,4 +113,4 @@ def clear():
 b = Button(window, text="clear", width= 12, command=clear)
 b.place(x=10, y=350)
 # step4: mainloop
-mainloop()
+# mainloop()
